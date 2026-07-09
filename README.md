@@ -460,4 +460,3 @@ This project is part of the AWS Bedrock AI Support Agent initiative.
 
 **Built with ❤️ using AWS Bedrock, Llama 3, and Streamlit**
 
-Last Updated: 2026-07-10 | Version: 1.0
